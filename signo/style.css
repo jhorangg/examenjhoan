@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-galaxia-via-lactea-estrellas-nebulosa_8130-467.jpg");    
+  }
+  
+  img{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    display: block;
+  }
+  
+  h1{
+    text-align: center;
+    color: white;
+  }
+  p{
+    color:white;
+    text-align: center;
+    font-size: 25px;
+  }
